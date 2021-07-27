@@ -1,0 +1,25 @@
+Temos uma oportunidade para Especialista Java 🧑🏽‍💻👩🏽‍💻
+
+Nós somos o Grupo FCamara, conheça mais sobre nós: www.fcamara.com.br
+
+Requisitos para esta oportunidade:
+
+Java
+SQL
+NoSQL
+Spring Stack(CI/CD)
+ETL
+Docker
+kubernetes
+Cloud
+Mensageria
+Design Patterns
+Arquitetura
+
+Diferencial:
+Kotlin
+
+Modelo de contratação: CLT ou PJ
+Atuação: 100% remoto
+Cliente a ser atendido: Dasa www.dasa.com.br
+Iremos considerar a sua pretensão salarial :)
